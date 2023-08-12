@@ -57,14 +57,25 @@ h1
 }
 .down
 {
-	height : 70px;
-	width : 90px;
-	border-width : 4px;
-	float : center;
+	height : 55px;
+	width : 50px;
 }
-*:hover 
+.do
 {
-	color:#aeb0b0;
+	height : 55px;
+	width : 60px;
+}
+a
+{
+	text-decoration: none;
+}
+.ah:hover
+{
+	color : #d11aff;
+}
+button:hover 
+{
+	color:#d11aff;
 }
 Button
 {
@@ -89,10 +100,15 @@ footer
 	float: right;
 	width : 70%;
 }
-table
+.last
 {
 	text-align: center;
 	width : 100%;
+}
+.lower
+{
+	text-align: center;
+	width : 30%;
 }
 h5
 {
